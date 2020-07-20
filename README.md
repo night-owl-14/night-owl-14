@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(...)[https://github-readme-stats.vercel.app/api?username=night-owl-14&show_icons=true]
+![](https://github-readme-stats.vercel.app/api?username=night-owl-14&show_icons=true)
 
 Here are some ideas to get you started:
 
